@@ -1,0 +1,5 @@
+CREATE TABLE [dbo].[teste]
+(
+	[id] UNIQUEIDENTIFIER NOT NULL PRIMARY KEY, 
+    [name] NVARCHAR(150) NOT NULL,
+)
